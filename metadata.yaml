@@ -1,0 +1,36 @@
+_repo: Aunt-Kitty-s-Tales_42837
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: McIntosh, Maria J. (Maria Jane)
+    aliases:
+    - McIntosh, M. J. (Maria Jane)
+    - McIntosh, Maria Jane
+    - M'Intosh, M. J. (Maria Jane)
+    - M'Intosh, Maria
+    birthdate: 1803
+    deathdate: 1878
+    gutenberg_agent_id: '9034'
+    url: http://www.gutenberg.org/2009/agents/9034
+description: ''
+gutenberg_issued: '2013-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42837'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories'
+- !lcsh 'Girls -- Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+tableOfContents: Blind Alice -- Jessie Graham; or friends dear, but truth dearer --
+  Florence Arnott; or, is she generous? -- Grace and Clara; or, be just as well as
+  generous -- Ellen Leslie; or, the reward of self-control.
+title: Aunt Kitty's Tales
+url: http://www.gutenberg.org/ebooks/42837
